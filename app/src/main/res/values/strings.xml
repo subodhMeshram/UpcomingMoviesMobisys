@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="my_profile">Information</string>
+    <string name="title_activity_information">Information</string>
+    <string name="developed_by">Developed by</string>
+    <string name="my_name">Subodh Meshram</string>
+</resources>
